@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @prabhsimran09
-- 👀 I’m interested in Web development(Front End), software development and data analysis.
-- 🌱 I’m currently learning css, javascript and digital marketing.
-- 💞️ I’m looking to collaborate on open source projects. I will be delighted to wrie readme files for now. Research in the field of AI.
+- 👀 I’m interested inBackend development using Java, Springboot ans AWS.
+- 🌱 I’m working as a backend developer and experimenting with my skills and the tech availabale
 - 📫 How to reach me 
  Email:  prabhsimranbajaj@gmail.com
 
